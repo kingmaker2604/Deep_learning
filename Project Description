@@ -1,0 +1,3 @@
+This is a deep learning project where our problem statement is to correct the grammatical errors in a sentence.
+We have used a HappyTransformer in order to detect and correct the grammatical errors.
+Since we have used a T5 Transformer we didn't require a dataset but jus the erotic input.
